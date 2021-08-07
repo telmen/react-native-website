@@ -864,7 +864,7 @@ blur();
 
 Makes the native input lose focus.
 
-### `clear()`
+### `.clear()`
 
 ```jsx
 clear();
@@ -874,7 +874,7 @@ Removes all text from the `TextInput`.
 
 ---
 
-### `isFocused()`
+### `.isFocused()`
 
 ```jsx
 isFocused();
